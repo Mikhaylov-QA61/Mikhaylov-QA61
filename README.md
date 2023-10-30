@@ -8,8 +8,8 @@ Java, Windows, MySQL, PostgreSQL, JUnit, Selenide, Faker, Rest Assured, Docker C
 
 ### Мои проекты
 
-[Учебные проекты на Java]()
+* [Учебные проекты на Java](https://github.com/Mikhaylov-QA61/Mikhaylov-QA61/blob/main/Project.md)
 
 ### Сертификаты Нетологии
 
-* [Тестировщик ПО]()
+* [Тестировщик ПО](https://github.com/Mikhaylov-QA61/Mikhaylov-QA61/blob/main/certificate_QA.pdf)
